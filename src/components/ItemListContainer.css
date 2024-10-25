@@ -9,7 +9,6 @@
   align-items: center;
 }
 
-/* Media query para pantallas pequeñas */
 @media (max-width: 600px) {
   .custom-container {
     padding: 20px;
